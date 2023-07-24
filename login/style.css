@@ -1,0 +1,4 @@
+.alert{
+    transform: scale(0);
+    transition: 0.5s;
+}
